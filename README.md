@@ -46,13 +46,13 @@ I enjoy building things that run close to the hardware from **STM32 and ESP32 fi
 
 ## GitHub Stats
 
-![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravanAY&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanAY&layout=compact&theme=tokyonight)
+![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravanAYG&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanAYG&layout=compact&theme=tokyonight)
 
 ---
 
 ## Connect With Me
 
-- GitHub: [@ShravanAY](https://github.com/ShravanAY)
+- GitHub: [@ShravanAY](https://github.com/ShravanAYG)
 - LinkedIn: [shravan-aniyoor](https://www.linkedin.com/in/shravan-aniyoor-1599aa345/)
 
