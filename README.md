@@ -1,7 +1,6 @@
 # Hi, I'm Shravan AY
 
 **Embedded Systems | IoT | Android | Open Source Enthusiast**  
-Indian
 
 ---
 
